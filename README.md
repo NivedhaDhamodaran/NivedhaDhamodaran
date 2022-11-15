@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.b_ztiigK1nJ-9e7tI_jtBQHaGD&pid=Api&P=0">
 
 
-- 🌱 I’m currently learning **spinnaker, python**
+- 🌱 I’m currently learning **EKS, bitbucket, python**
 
 - 💬 Ask me about **Kubernetes, Docker, Terraform, Jenkins & AWS**
 
